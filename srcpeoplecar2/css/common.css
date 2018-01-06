@@ -1,0 +1,10 @@
+.foot{
+  background: lightblue
+}
+.foot a{
+    display: flex;
+    height: 0.8rem;
+    align-items: center;
+    justify-content: center;
+    
+}
